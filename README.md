@@ -5,6 +5,6 @@ Customers can create their own accounts and can login. Their details has been sa
 
 How to run this project?
 
-<B>Step-1:<B> Download this repository in your PC.
-  <B>Step-2:<B> Go to <B>auto_package<B> folder.
-    <B>Step-2:<B> Run the JAVA program <B>LoginForm.java<B>.
+<B>Step-1:</B> Download this repository in your PC.
+<B>Step-2:</B> Go to <B>auto_package<B> folder.
+<B>Step-2:</B> Run the JAVA program <B>LoginForm.java<B>.
